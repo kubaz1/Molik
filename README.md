@@ -47,7 +47,7 @@ o	GOOGLE BOOKS API
 
 Struktura Projektu:
 /giełda_ksiazek_php/
-|-- config/ # Pliki konfiguracyjne (np. połączenie z DB)
+|-- config/ # Pliki konfiguracyjne (np. połączenie z DB) <cd>
 |-- includes/ # Wspólne elementy strony (header, footer)
 |-- public/ # Główny folder dostępny publicznie (document root)
 | |-- css/ # Arkusze stylów CSS
