@@ -80,6 +80,6 @@ Struktura Projektu:
 <hr />
 
 <h3>Autorzy: </h3>
-Miłosz Musielak 51304
-Jakub Żywiczko 51377
-Eliasz Marcinkowski 51593
+Miłosz Musielak 51304   <br />
+Jakub Żywiczko 51377   <br />
+Eliasz Marcinkowski 51593   <br />
